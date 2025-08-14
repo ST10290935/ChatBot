@@ -17,7 +17,7 @@ othneildrew., 2024. Best-README-Template (version 1.1.2) [Source code]. Availabl
 <h3 align="center">ChatBox (using cohere api)</h3>
 
 <p align="center">
-  <a href="https://github.com/ST10143151/CashFlow_Latest"><strong>Explore the Docs »</strong></a>
+ 
   <br />
   <br />
   <a href="https://github.com/ST10143151/CashFlow_Latest">View Demo</a>
@@ -52,12 +52,11 @@ othneildrew., 2024. Best-README-Template (version 1.1.2) [Source code]. Availabl
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+### To Add
 
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/a107be7e-3084-4c39-8760-bd84a0b4a69f" alt="Logo" style="width: 170px; height: 170px; border-radius: 50%; object-fit: cover; border: 2px solid #ddd;">
-</p>
+- Implemet you desired database, make sure it only stores LOGIN/REGISTER details.
 
+- To make things easier use auto scaffolding...this will basically create a local db for you with login and register screens.
 
 
 
@@ -100,7 +99,7 @@ To get a local copy of the project running, follow these steps.
 - Cohere account
 
 - Visual Studio
-- 
+  
 ### Installation
 
 1. Clone the repository
@@ -176,22 +175,4 @@ To get a local copy of the project running, follow these steps.
 
 <!-- CONTRIBUTING -->
 
-## Contributors
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-<!-- CONTACT -->
-
-
-
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
