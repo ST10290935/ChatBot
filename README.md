@@ -51,6 +51,15 @@ othneildrew., 2024. Best-README-Template (version 1.1.2) [Source code]. Availabl
   </ol>
 </details>
 
+
+### Do before
+- go to https://cohere.com/
+- sign up using google
+- you will load to the dashboard screen
+- find the API keys tab select it
+- copy your free API
+- and in the the project code there is a file called "appsettings.json"
+- open this file and relpace "PlEASE_USE_YOUR_COHERE_API_HERE" with your free cohere API
 <!-- ABOUT THE PROJECT -->
 ### To Add
 
