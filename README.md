@@ -20,11 +20,11 @@ othneildrew., 2024. Best-README-Template (version 1.1.2) [Source code]. Availabl
  
   <br />
   <br />
-  <a href="https://github.com/ST10143151/CashFlow_Latest">View Demo</a>
+  <a href="https://github.com/ST10290935/ChatBot.git">View Demo</a>
   ·
-  <a href="https://github.com/ST10143151/CashFlow_Latest/issues">Report Bug</a>
+  <a href="https://github.com/ST10290935/ChatBot.git">Report Bug</a>
   ·
-  <a href="https://github.com/ST10143151/CashFlow_Latest/issues">Request Feature</a>
+  <a href="https://github.com/ST10290935/ChatBot.git">Request Feature</a>
 </p>
 
 
@@ -104,7 +104,7 @@ To get a local copy of the project running, follow these steps.
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/ST10143151/CashFlow_Latest.git
+   git clone https://github.com/ST10290935/ChatBot.git
    
 2. How to Run
 <details>
@@ -115,7 +115,7 @@ To get a local copy of the project running, follow these steps.
       <summary style="font-weight: bold; color: #2196F3;">1. Clone the Repository</summary>
       <div style="color: #333;">
         <p>To get the source code, first clone the repository from GitHub:</p>
-        <pre><code>git clone https://github.com/YourUsername/YourMVCProject.git</code></pre>
+        <pre><code>https://github.com/ST10290935/ChatBot.git</code></pre>
         <p>This command will create a local copy of the repository on your machine. Navigate into the project folder:</p>
         <pre><code>cd YourMVCProject</code></pre>
       </div>
