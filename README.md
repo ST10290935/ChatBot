@@ -76,9 +76,9 @@ othneildrew., 2024. Best-README-Template (version 1.1.2) [Source code]. Availabl
 <table align="center">
   <tr>
     <td align="center" width="200px">
-     <img alt="Chatbox" src="https://github.com/user-attachments/assets/fdd52d9f-33b6-4f0d-ba11-d6ad85e54697" style="width: 100%; max-width: 1400px; height: auto;" />
+    <img width="1280" height="800" alt="Chatbox" src="https://github.com/user-attachments/assets/fdd52d9f-33b6-4f0d-ba11-d6ad85e54697" />
 
-    </td>
+   </td>
   </tr>
 </table>
 
