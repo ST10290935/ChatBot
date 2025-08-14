@@ -76,7 +76,7 @@ othneildrew., 2024. Best-README-Template (version 1.1.2) [Source code]. Availabl
 <table align="center">
   <tr>
     <td align="center" width="200px">
-      <img src="https://github.com/user-attachments/assets/83c02ea5-fcfa-41d8-9aa0-64563349f4ba" width="180" alt="Trends Chart" /><br/>
+      <img src=https://github.com/user-attachments/assets/8230fb3c-f0f9-4dbb-8661-e45d406ae51e" width="180" alt="Trends Chart" /><br/>
       <sub>📈 Trends</sub>
     </td>
   </tr>
