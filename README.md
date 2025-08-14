@@ -76,12 +76,10 @@ othneildrew., 2024. Best-README-Template (version 1.1.2) [Source code]. Availabl
 <table align="center">
   <tr>
     <td align="center" width="200px">
-      <img src=https://github.com/user-attachments/assets/8230fb3c-f0f9-4dbb-8661-e45d406ae51e" width="180" alt="Trends Chart" /><br/>
-      <sub>📈 Trends</sub>
+      <img width="960" height="600" alt="Chatbox" src="https://github.com/user-attachments/assets/fdd52d9f-33b6-4f0d-ba11-d6ad85e54697" />
     </td>
   </tr>
 </table>
-
 
 
 
